@@ -1,6 +1,6 @@
 Try out live here:
 
-https://v0-startup-deck-analyzer-m2w8htxh9.vercel.app/
+https://deckduediligence.vercel.app
 
 
 for testing you can use Deck of sts42
