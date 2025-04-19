@@ -1,9 +1,12 @@
-Try out live here:
+# Deck DueDiligence
+Supercharge your VC due diligence with AI-powered startup deck analysis
 
-https://deckduediligence.vercel.app
+## Try out the live [here](https://deckduediligence.vercel.app)
 
-buildship remix Link
-https://app.buildship.com/remix/403e5a31-6378-4491-9a21-763274d8c7c5
+## v0 [Chat Link](https://v0.dev/chat/startup-deck-analyzer-Kg68nDoKbw1)
+
+## buildship [remix Link](https://app.buildship.com/remix/403e5a31-6378-4491-9a21-763274d8c7c5)
+
 
 
 for testing you can use Deck of sts42
